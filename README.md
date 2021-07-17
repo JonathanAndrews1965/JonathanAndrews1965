@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JonathanAndrews1965 - Jonathan
+- 👀 I’m interested in learning basic coding and creating a few very simple applications for mathematics
+- 🌱 I’m currently trying to write an app for solving quadratic equations. The point being, I want to solve them exactly.
+- 💞️ I’m not looking to collaborate yet
+- 📫 My email address is jonathan.andrews@hotmail.co.uk
